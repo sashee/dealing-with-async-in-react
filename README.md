@@ -1,6 +1,6 @@
 # Dealing with async in React
 
-This is a demonstration repo for a blog post.
+This is a demonstration repo for a blog post: https://advancedweb.hu/2016/04/05/dealing-with-async-in-react/
 
 Dealing with long running asynchronous tasks in React is a challenge. While the framework does not impose any restrictions
 on setting state on a different cycle, you might easily encounter timing errors.
